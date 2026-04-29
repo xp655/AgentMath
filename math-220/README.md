@@ -1,4 +1,4 @@
-# 📐 多模态多智能体数学推理基准 [![Data Scale](https://img.shields.io/badge/Samples-1003-orange.svg)](#dataset-statistics) [![Modalities](https://img.shields.io/badge/Modalities-3-purple.svg)](#key-features) 
+# 📐 多模态多智能体数学推理基准 [![Data Scale](https://img.shields.io/badge/Samples-1003-orange.svg)](#dataset-statistics) [![Modalities](https://img.shields.io/badge/Modalities-4-purple.svg)](#key-features) 
 ---
 **面向大模型多智能体系统的多模态数学推理专用基准** 致力于解决传统多智能体数学问答基准**单模态限制、仅结果导向评估、缺乏协作鲁棒性测试**三大核心缺陷，为多智能体数学推理提供全维度、细粒度、过程化的评估能力。
 ## 🎯 基准定位 
